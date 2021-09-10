@@ -1,6 +1,6 @@
 {
   "name": "react-faqs-component",
-  "description": "Two test React components",
+  "description": "Add smooth FAQ components to your React application",
   "author": "Jalome",
   "keywords": [
     "faqs",
@@ -8,7 +8,11 @@
     "react faq component",
     "faq components"
   ],
-  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoeyAlpha5/react-faqs-component"
+  },
+  "version": "1.0.2",
   "main": "dist/ReactFaqsComponent.js",
   "module": "dist/ReactFaqsComponent.js",
   "files": [

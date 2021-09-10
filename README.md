@@ -1,5 +1,7 @@
 # react-faqs-component
 
+Add smooth FAQ components to your React application
+
 ## installation
 ```javascript
 npm i react-faqs-component
