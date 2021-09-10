@@ -33,5 +33,6 @@ import FAQS from 'react-faqs-component';
 
 # Preview
 
+![Demo](https://raw.githubusercontent.com/JoeyAlpha5/react-faqs-component/main/src/assets/react-faqs.mp4?raw=true "react-faqs-component")
 ![Alt text](https://raw.githubusercontent.com/JoeyAlpha5/react-faqs-component/main/src/assets/screenshot0.png?raw=true "react-faqs-component")
 ![Alt text](https://raw.githubusercontent.com/JoeyAlpha5/react-faqs-component/main/src/assets/screenshot1.png?raw=true "react-faqs-component")
