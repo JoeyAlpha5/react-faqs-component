@@ -2,6 +2,7 @@
   "name": "react-faqs-component",
   "description": "Add smooth FAQ components to your React application",
   "author": "Jalome",
+  "license": "MIT",
   "keywords": [
     "faqs",
     "faq",
@@ -12,7 +13,7 @@
     "type": "git",
     "url": "https://github.com/JoeyAlpha5/react-faqs-component"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/ReactFaqsComponent.js",
   "module": "dist/ReactFaqsComponent.js",
   "files": [
@@ -20,10 +21,10 @@
     "README.md"
   ],
   "dependencies": {
-    "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "core-js": "^3.18.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.2.0",
@@ -55,8 +56,8 @@
     ]
   },
   "devDependencies": {
-    "@babel/cli": "^7.15.4",
-    "@babel/core": "^7.15.5",
-    "@babel/preset-env": "^7.15.6"
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8"
   }
 }
